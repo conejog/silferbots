@@ -1,5 +1,5 @@
 # Silfer Bots set custom field value 
-Function to set silfer bots customfields using PHP.
+Function to set silfer bots custom fields values using PHP.
 
 ## How to Use
 
