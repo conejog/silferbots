@@ -1,2 +1,2 @@
-# silferbots
-Function to set silferbots customfields
+# silferbots Set custom field value 
+Function to set silferbots customfields using PHP
