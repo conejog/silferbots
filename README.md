@@ -20,6 +20,7 @@ $userid = 'Facebook User ID';
 $fieldid = 'Silfer Bots Field ID';
 $value = 'anything';
 
+//call the function
 setcustomfield($userid, $fieldid, $value, $authorization);
 ```
 ## Author
